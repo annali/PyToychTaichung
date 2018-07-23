@@ -31,7 +31,7 @@
 | 11 | 7/22 | GoogLeNet | 廖健傑 |
 | 12 | 7/29 | PreVGGNet | 江雨 |
 | 13 | 8/5 | VGGNet | 張逸勝 |
-| 14 | 8/12 | ResNet | Chih Wei Chang |
+| 14 |  | ResNet | Chih Wei Chang |
 | 15 |  | SqueezeNet | Mike Wang |
 | 16 |  | FCN | 杜岳華 |
 | 17、18 |  | SVM and SMO | Mike Wang |
